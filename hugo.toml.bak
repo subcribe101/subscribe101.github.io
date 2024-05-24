@@ -1,0 +1,5 @@
+baseURL = 'https://ynrfin.com/'
+languageCode = 'en-us'
+title = "Yanuar's Blog"
+
+theme = "PaperMod"
