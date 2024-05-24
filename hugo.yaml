@@ -7,6 +7,19 @@ theme : "PaperMod"
 params:
   ShowToc: true
   TocOpen: true
+
+  homeInfoParams:
+    Title: Hi there 
+    Content: Thank you for visiting! I'm a Software Engineer learning things
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/ynrfin"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/yanuar-arifin-866870193/"
+    - name: "email"
+      url: "mailto:contact@ynrfin.com"
+
 #   profileMode:
 #     enabled: true
 #     title: PaperMod
